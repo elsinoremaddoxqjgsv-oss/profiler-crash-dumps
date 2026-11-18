@@ -1,0 +1,2 @@
+# profiler-crash-dumps
+injectCompilerFlags
